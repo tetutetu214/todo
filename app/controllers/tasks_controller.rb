@@ -5,7 +5,10 @@ class TasksController < ApplicationController
   def show
   end
 
-  def store
+  def new
+  end
+
+  def create
   end
 
   def update
